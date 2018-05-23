@@ -1,0 +1,39 @@
+/* CSS Document*/
+head{
+    background: black;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color:  rgb(212, 16, 212);
+    font-size: 48px;
+
+}
+
+h2 {
+    color: orange;
+    background: black;
+}
+img {
+    height: 400px;
+    width: 500px;
+    border: 20px blue;
+    margin: 50px 50px;
+    background-color: black;
+}
+
+.rotateimg90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+button { 
+    color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
