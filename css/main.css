@@ -24,6 +24,7 @@ img {
     height: 400px;
     width: 500px;
     border: 20px blue;
+    border-radius: 25%;
     margin: 50px 50px;
     background-color: black;
     float: right
