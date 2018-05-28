@@ -20,6 +20,7 @@ h2 {
     color: rgb(212, 16, 212);
     background: lightblue;
 }
+
 img {
     height: 400px;
     width: 500px;
@@ -30,6 +31,7 @@ img {
     float: right
 }
 
+/* to rotate the image to display right way */
 .rotateimg90 {
     -webkit-transform:rotate(90deg);
     -moz-transform: rotate(90deg);
