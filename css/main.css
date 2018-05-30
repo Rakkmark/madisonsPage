@@ -5,16 +5,13 @@ head{
 
 body {
     background-color: lightblue;
+    padding: 90px !important;
 }
 
 h1 {
     color:  rgb(212, 16, 212);
 }
 
-.title {
-    color:  rgb(212, 16, 212);
-    font-size: 68px;
-}
 
 h2 {
     color: rgb(212, 16, 212);
@@ -25,10 +22,13 @@ img {
     height: 400px;
     width: 500px;
     border: 20px blue;
-    border-radius: 25%;
+    border-radius: 25px;
     margin: 50px 50px;
     background-color: black;
     float: right
+}
+
+
 }
 
 /* to rotate the image to display right way */
@@ -38,6 +38,25 @@ img {
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
+
+}
+
+.title {
+    color:  rgb(212, 16, 212);
+    font-size: 68px;
+    float: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: purple;
+    color: rgb(212, 16, 212);
+    text-align: left;
+    height: 70px;
+    
 }
 
 /* Dropdown Button */
@@ -84,3 +103,4 @@ img {
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
+
