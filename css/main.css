@@ -18,7 +18,8 @@ h2 {
     background: lightblue;
 }
 
-img {
+/*Classes */
+.madi {
     height: 400px;
     width: 500px;
     border: 20px blue;
