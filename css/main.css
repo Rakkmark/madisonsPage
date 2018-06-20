@@ -1,29 +1,38 @@
 /* CSS Document*/
-
-head{
-    background: black;
+html   
+{   
+    background: #d0cec9;   
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dedcd9', endColorstr='#f7f7f6');   
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #dedcd9),      
+    color-stop(0.1, #f7f7f6), color-stop(1.0, #f7f7f6));   
+    background: -moz-linear-gradient(top, #dedcd9 0px, #f7f7f6 400px, #f7f7f6 100%);   
+}   
+body   
+{   
+    background: url(../img/madiandbrickwall.jpg);   
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}  
+body, html {
+    height: 100%;
 }
 
-body {
-    background-color: lightblue;
-    padding: 90px !important;
-    
-}
-  
+
 
 h1 {
-    color:  rgb(212, 16, 212);
+    color:  pink;
 }
 
 
 h2 {
-    color: rgb(212, 16, 212);
-    background: lightblue;
+    color: rgb(244, 85, 209);
+    
 }
 
 h3 {
-    color: rgb(212, 16, 212);
-    background: lightblue;
+    color: rgb(244, 85, 209);
+    
 }
 
 /*Classes */
@@ -55,6 +64,7 @@ h3 {
     text-align: left;
     height: 70px;
     
+    
 }
 
 /* Dropdown Button */
@@ -65,6 +75,7 @@ h3 {
     font-size: 16px;
     border: none;
     cursor: pointer;
+    float: right;
 }
 
 /* Dropdown button on hover & focus */
