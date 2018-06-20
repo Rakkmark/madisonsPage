@@ -26,12 +26,14 @@ h1 {
 
 
 h2 {
-    color: rgb(244, 85, 209);
+    color: rgb(255, 20, 255);
+    font-weight: bold;
     
 }
 
 h3 {
     color: rgb(244, 85, 209);
+    font-weight: bolder;
     
 }
 
@@ -63,8 +65,9 @@ h3 {
     color: rgb(212, 16, 212);
     text-align: left;
     height: 70px;
-    
-    
+}
+footer p{
+    margin-bottom: 0.1em;
 }
 
 /* Dropdown Button */
