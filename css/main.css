@@ -6,6 +6,7 @@ head{
 body {
     background-color: lightblue;
     padding: 90px !important;
+    background-image: url('img/madiandbrickwall.jpg');
 }
 
 h1 {
@@ -24,6 +25,7 @@ h3 {
 }
 
 /*Classes */
+
 .madi {
     height: 400px;
     width: 500px;
