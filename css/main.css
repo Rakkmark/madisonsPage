@@ -1,4 +1,5 @@
 /* CSS Document*/
+
 head{
     background: black;
 }
@@ -6,8 +7,9 @@ head{
 body {
     background-color: lightblue;
     padding: 90px !important;
-    background-image: url('img/madiandbrickwall.jpg');
+    
 }
+  
 
 h1 {
     color:  rgb(212, 16, 212);
