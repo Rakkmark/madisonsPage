@@ -88,6 +88,8 @@ footer p{
 
 /* Dropdown Button */
 .dropbtn {
+    max-width: 500px;
+    margin: auto;
     background-color: rgb(7, 152, 248);
     color: rgb(248, 8, 8);
     padding: 16px;
