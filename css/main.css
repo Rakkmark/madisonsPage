@@ -43,6 +43,10 @@ h3 {
 }
 
 /*Classes */
+.content {
+    max-width: 500px;
+    margin: auto;
+}
 
 .madi {
     height: 400px;
