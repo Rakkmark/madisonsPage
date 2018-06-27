@@ -139,3 +139,20 @@ footer p{
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
 
+                        /* Media Quaries */
+
+
+@media (min-width: 576px) { 
+    .lead {  
+       font-size: 1.20rem;
+    } 
+ }
+
+
+@media (min-width: 768px) { }
+
+/* Large devices desktops, 992px and up */
+@media (min-width: 992px) {  }
+
+/* Extra large devices large desktops, 1200px and up */
+@media (min-width: 1200px) {  }
