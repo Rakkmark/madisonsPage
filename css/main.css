@@ -90,7 +90,7 @@ footer p{
     font-size: 16px;
     border: none;
     cursor: pointer;
-    float: center;
+    float: auto;
 }
 
 /* Dropdown button on hover & focus */
