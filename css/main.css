@@ -43,6 +43,11 @@ h3 {
 }
 
 /*Classes */
+.lead {
+    color:  rgb(242, 39, 39);
+    font-weight: bold;
+    font-size: 1.50rem;
+}
 .content {
     max-width: 500px;
     margin: auto;
