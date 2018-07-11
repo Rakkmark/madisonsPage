@@ -20,6 +20,8 @@ body
 body, html {
     height: 100%;
     width: 100%;
+    overflow: hidden;
+
 }
 
 
@@ -44,6 +46,11 @@ h3 {
 }
 
 /*Classes */
+.wrapper{
+    overflow-y: scroll;
+    height: 85%;
+}
+
 .lead {
     color:  rgb(242, 39, 39);
     font-weight: bold;
@@ -86,7 +93,7 @@ h3 {
 
     color: rgb(52, 16, 212);
     text-align: left;
-    height: 55px;
+    height: 15%;
 }
 footer p{
     margin-bottom: 0.1em;
