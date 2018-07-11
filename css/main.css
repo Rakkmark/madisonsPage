@@ -164,4 +164,7 @@ footer p{
     .footer {
         font-size: 10px;
     }
+    .wrapper {
+        overflow-y: scroll; 
+    }
   }
