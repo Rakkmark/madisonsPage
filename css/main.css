@@ -6,7 +6,8 @@ html
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #dedcd9),      
     color-stop(0.1, #f7f7f6), color-stop(1.0, #f7f7f6));   
     background: -moz-linear-gradient(top, #dedcd9 0px, #f7f7f6 400px, #f7f7f6 100%);   
-}   
+}  
+
 body   
 {   
     background: url(../img/madiandbrickwall.jpg)no-repeat center center fixed;
@@ -17,14 +18,13 @@ body
     height: 100%;
     overflow: hidden;
 }
+
 body, html {
     height: 100%;
     width: 100%;
     overflow: hidden;
 
 }
-
-
 
 h1 {
     color:  pink;
@@ -46,9 +46,10 @@ h3 {
 }
 
 /*Classes */
+/* Wrapper class enables scrolling on mobile divices */
 .wrapper{
     overflow-y: scroll;
-    height: 85%;
+    height: 90%;
 }
 
 .lead {
@@ -93,7 +94,7 @@ h3 {
 
     color: rgb(52, 16, 212);
     text-align: left;
-    height: 15%;
+    height: 10%;
 }
 footer p{
     margin-bottom: 0.1em;
