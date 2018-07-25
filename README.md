@@ -8,6 +8,8 @@ This site will continue to grow and content added.
 
 I used Bootstrap, as the frame work. 
 
+Gallery and About Madison pages are under construction 
 
 Copy and paste link in web browser
 https://rakkmark.github.io/madisonsPage/
+
