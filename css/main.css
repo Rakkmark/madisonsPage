@@ -52,7 +52,7 @@ h3 {
     height: 90%;
 }
     ::-webkit-scrollbar{
-        width: 0px;
+        width: 3px;
         background: red; 
 }
 
