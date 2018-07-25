@@ -51,6 +51,10 @@ h3 {
     overflow-y: scroll;
     height: 90%;
 }
+    ::-webkit-scrollbar{
+        width: 0px;
+        background: transparent; 
+}
 
 .lead {
     color:  rgb(242, 39, 39);
