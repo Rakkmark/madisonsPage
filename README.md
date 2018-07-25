@@ -7,3 +7,7 @@ Have some css and Js now i am excited that this project is taking life.
 This site will continue to grow and content added. 
 
 I used Bootstrap, as the frame work. 
+
+
+Copy and paste link in web browser
+https://rakkmark.github.io/madisonsPage/
