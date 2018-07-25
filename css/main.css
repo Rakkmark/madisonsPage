@@ -16,16 +16,15 @@ body
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-    
-    
+    overflow: hidden;
+
 }
 
 body, html {
     height: 100%;
     width: 100%;
-   
+   overflow: hidden;
     
-
 }
 
 h1 {
@@ -49,14 +48,14 @@ h3 {
 
 /*Classes */
 /* Wrapper class enables scrolling on mobile divices */
-/*.wrapper{
+.wrapper{
     overflow-y: scroll;
     height: 90%;
 }
   ::-webkit-scrollbar{
         width: 3px;
         background: red; 
-}*/
+}
 
 .lead {
     color:  rgb(242, 39, 39);
