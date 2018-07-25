@@ -16,14 +16,14 @@ body
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-    overflow: hidden;
+    overflow-y: hidden;
     
 }
 
 body, html {
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow-y: hidden;
     
 
 }
